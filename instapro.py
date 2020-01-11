@@ -6,6 +6,7 @@ TODO LIST:
   Add help function to all "Yes/no" questions
   Add help  function to "Press enter to exit input"
 '''
+import requests
 import json
 import time
 import os
